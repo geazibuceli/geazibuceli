@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geazibuceli" alt="geazibuceli" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow,Pytorch**
+- 🌱 I’m currently learning **Pytorch**
 
-- 🤝 I’m looking for help with **Tensorflow and Pytorch**
+- 🤝 I’m looking for help with **Pytorch**
 
-- 💬 Ask me about **Python,C and C++**
+- 💬 Ask me about **Python and C**
 
 - 📫 How to reach me **geazijunior1996@gmail.com**
 
