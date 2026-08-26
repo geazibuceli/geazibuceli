@@ -8,5 +8,3 @@
 
 - Deep learning with PyTorch
 - Model training and evaluation
-- Explainable and responsible AI
-- Software engineering best practices
